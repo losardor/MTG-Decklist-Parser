@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+from list2table import *
 
 st.title("MTG Decklist to Table Converter")
 uploaded_file = st.file_uploader("Upload your decklist (.txt)", type="txt")
