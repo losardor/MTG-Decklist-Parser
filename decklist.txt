@@ -1,0 +1,107 @@
+Commander
+1 Oswald Fiddlebender
+
+Deck
+1 Market Gnome
+1 Skrelv, Defector Mite
+1 Compass Gnome
+1 Deep Gnome Terramancer
+1 Myr Retriever
+1 Ornithopter of Paradise
+1 Cathodion
+1 Losheel, Clockwork Scholar
+1 Myr Welder
+1 Scrap Trawler
+1 Junk Diver
+1 Crackdown Construct
+1 Dross Scorpion
+1 Teshar, Ancestor's Apostle
+1 Cataclysmic Gearhulk
+1 Meteor Golem
+1 Combat Thresher
+1 Threefold Thunderhulk
+1 Blacksmith's Skill
+1 Dispatch
+1 Swords to Plowshares
+1 Hour of Revelation
+1 Recommission
+1 Cut a Deal
+1 Secret Rendezvous
+1 Second Sunrise
+1 Sevinne's Reclamation
+1 Your Temple Is Under Attack
+1 Austere Command
+1 Open the Vaults
+1 Brilliant Restoration
+1 Ondu Inversion
+1 Organic Extinction
+1 Immovable Rod
+1 Portable Hole
+1 Sol Ring
+1 Terrarion
+1 Vexing Bauble
+1 Moonsilver Key
+1 Clay-Fired Bricks
+1 Ebony Fly
+1 Ichor Wellspring
+1 Lightning Greaves
+1 Liquimetal Torque
+1 Magewright's Stone
+1 Marble Diamond
+1 Mirror Shield
+1 Servo Schematic
+1 Surveyor's Scope
+1 Swiftfoot Boots
+1 Archaeomancer's Map
+1 Halo Fountain
+1 Extraplanar Lens
+1 Basalt Monolith
+1 Patriar's Seal
+1 Rings of Brighthearth
+1 Staff of Domination
+1 The Book of Exalted Deeds
+1 Thousand-Year Elixir
+1 Hedron Archive
+1 Thousand Moons Smithy
+1 Weatherlight
+1 Gauntlet of Power
+1 Coveted Jewel
+1 Ancient Den
+1 Buried Ruin
+1 Darksteel Citadel
+1 Remote Farm
+1 Faceless Haven
+1 Karoo
+1 Mishra's Factory
+1 Power Depot
+1 Roadside Reliquary
+26 Snow-Covered Plains
+
+Sideboard
+1 Pentavus
+1 Thopter Squadron
+1 Enlightened Tutor
+1 Orim's Chant
+1 Silence
+1 Arcane Signet
+1 Chrome Mox
+1 Fellwar Stone
+1 Grim Monolith
+1 Mana Vault
+1 Mox Diamond
+1 Manifold Key
+1 Mox Opal
+1 Pithing Needle
+1 The One Ring
+1 Torpor Orb
+1 Unwinding Clock
+1 Ancient Tomb
+1 Eiganjo, Seat of the Empire
+1 Emergence Zone
+1 Fomori Vault
+1 Inventors' Fair
+1 Gemstone Caverns
+1 The Mycosynth Gardens
+1 Urza's Saga
+1 Prized Statue
+1 Pearl Medallion

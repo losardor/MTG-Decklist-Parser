@@ -1,0 +1,201 @@
+Card Name,Mana Cost,CMC,Type,Oracle Text,Power,Toughness,Rarity,Price (USD),Role,Quantity,Category
+Oswald Fiddlebender,{1}{W},2.0,Legendary Creature — Gnome Artificer,"Magical Tinkering — {W}, {T}, Sacrifice an artifact: Search your library for an artifact card with mana value equal to 1 plus the sacrificed artifact's mana value, put it onto the battlefield, then shuffle. Activate only as a sorcery.",2,2,Rare,2.02,Tutor,1,Commander
+Market Gnome,{W},1.0,Artifact Creature — Gnome,"When this creature dies, you gain 1 life and draw a card.
+When this creature is exiled from the battlefield while you're activating a craft ability, you gain 1 life and draw a card.",0,3,Uncommon,0.09,Card Draw,1,Deck
+"Skrelv, Defector Mite",{W},1.0,Legendary Artifact Creature — Phyrexian Mite,"Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)
+Skrelv can't block.
+{W/P}, {T}: Choose a color. Another target creature you control gains toxic 1 and hexproof from that color until end of turn. It can't be blocked by creatures of that color this turn. ({W/P} can be paid with either {W} or 2 life.)",1,1,Rare,2.34,Direct Damage,1,Deck
+Compass Gnome,{2},2.0,Artifact Creature — Gnome,"When this creature enters, you may search your library for a basic land card or Cave card, reveal it, then shuffle and put that card on top.",2,1,Common,0.04,Tutor,1,Deck
+Deep Gnome Terramancer,{1}{W},2.0,Creature — Gnome Wizard,"Flash
+Mold Earth — Whenever one or more lands enter under an opponent's control without being played, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle. Do this only once each turn.",2,2,Rare,5.70,Tutor,1,Deck
+Myr Retriever,{2},2.0,Artifact Creature — Myr,"When this creature dies, return another target artifact card from your graveyard to your hand.",1,1,Common,2.30,Other,1,Deck
+Ornithopter of Paradise,{2},2.0,Artifact Creature — Thopter,"Flying
+{T}: Add one mana of any color.",0,2,Common,2.78,Other,1,Deck
+Cathodion,{3},3.0,Artifact Creature — Construct,"When this creature dies, add {C}{C}{C}.",3,3,Common,0.07,Ramp,1,Deck
+"Losheel, Clockwork Scholar",{2}{W},3.0,Legendary Creature — Elephant Artificer,"Prevent all combat damage that would be dealt to attacking artifact creatures you control.
+Whenever one or more artifact creatures you control enter, draw a card. This ability triggers only once each turn.",2,4,Uncommon,2.53,Card Draw,1,Deck
+Myr Welder,{3},3.0,Artifact Creature — Myr,"Imprint — {T}: Exile target artifact card from a graveyard.
+This creature has all activated abilities of all cards exiled with it.",1,4,Rare,2.29,Removal,1,Deck
+Scrap Trawler,{3},3.0,Artifact Creature — Construct,"Whenever this creature dies or another artifact you control is put into a graveyard from the battlefield, return to your hand target artifact card in your graveyard with lesser mana value.",3,2,Rare,0.74,Other,1,Deck
+Junk Diver,{3},3.0,Artifact Creature — Bird,"Flying
+When this creature dies, return another target artifact card from your graveyard to your hand.",1,1,Uncommon,0.13,Other,1,Deck
+Crackdown Construct,{4},4.0,Artifact Creature — Construct,"Whenever you activate an ability of an artifact or creature that isn't a mana ability, this creature gets +1/+1 until end of turn.",2,2,Uncommon,0.10,Other,1,Deck
+Dross Scorpion,{4},4.0,Artifact Creature — Scorpion,"Whenever this creature or another artifact creature dies, you may untap target artifact.",3,1,Common,0.29,Other,1,Deck
+"Teshar, Ancestor's Apostle",{3}{W},4.0,Legendary Creature — Bird Cleric,"Flying
+Whenever you cast a historic spell, return target creature card with mana value 3 or less from your graveyard to the battlefield. (Artifacts, legendaries, and Sagas are historic.)",2,2,Uncommon,0.16,Other,1,Deck
+Cataclysmic Gearhulk,{3}{W}{W},5.0,Artifact Creature — Construct,"Vigilance
+When this creature enters, each player chooses an artifact, a creature, an enchantment, and a planeswalker from among the nonland permanents they control, then sacrifices the rest.",4,5,Mythic,0.23,Sacrifice Synergy,1,Deck
+Meteor Golem,{7},7.0,Artifact Creature — Golem,"When this creature enters, destroy target nonland permanent an opponent controls.",3,3,Uncommon,0.06,Other,1,Deck
+Combat Thresher,{7},7.0,Artifact Creature — Construct,"Prototype {2}{W} — 1/1 (You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)
+Double strike
+When this creature enters, draw a card.",3,3,Uncommon,0.10,Card Draw,1,Deck
+Threefold Thunderhulk,{7},7.0,Artifact Creature — Gnome,"This creature enters with three +1/+1 counters on it.
+Whenever this creature enters or attacks, create a number of 1/1 colorless Gnome artifact creature tokens equal to its power.
+{2}, Sacrifice another artifact: Put a +1/+1 counter on this creature.",0,0,Rare,0.65,Sacrifice Synergy,1,Deck
+Blacksmith's Skill,{W},1.0,Instant,"Target permanent gains hexproof and indestructible until end of turn. If it's an artifact creature, it gets +2/+2 until end of turn.",,,Common,0.18,Other,1,Deck
+Dispatch,{W},1.0,Instant,"Tap target creature.
+Metalcraft — If you control three or more artifacts, exile that creature.",,,Uncommon,2.31,Other,1,Deck
+Swords to Plowshares,{W},1.0,Instant,Exile target creature. Its controller gains life equal to its power.,,,Uncommon,1.32,Removal,1,Deck
+Hour of Revelation,{3}{W}{W}{W},6.0,Sorcery,"This spell costs {3} less to cast if there are ten or more nonland permanents on the battlefield.
+Destroy all nonland permanents.",,,Rare,0.63,Sweeper,1,Deck
+Recommission,{1}{W},2.0,Sorcery,"Return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield. If a creature enters this way, it enters with an additional +1/+1 counter on it.",,,Common,0.34,Other,1,Deck
+Cut a Deal,{2}{W},3.0,Sorcery,"Each opponent draws a card, then you draw a card for each opponent who drew a card this way.",,,Uncommon,0.21,Card Draw,1,Deck
+Secret Rendezvous,{1}{W}{W},3.0,Sorcery,You and target opponent each draw three cards.,,,Uncommon,0.21,Card Draw,1,Deck
+Second Sunrise,{1}{W}{W},3.0,Instant,"Each player returns to the battlefield all artifact, creature, enchantment, and land cards in their graveyard that were put there from the battlefield this turn.",,,Rare,3.09,Other,1,Deck
+Sevinne's Reclamation,{2}{W},3.0,Sorcery,"Return target permanent card with mana value 3 or less from your graveyard to the battlefield. If this spell was cast from a graveyard, you may copy this spell and may choose a new target for the copy.
+Flashback {4}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",,,Rare,0.28,Other,1,Deck
+Your Temple Is Under Attack,{2}{W},3.0,Instant,"Choose one —
+• Pray for Protection — Creatures you control gain indestructible until end of turn.
+• Strike a Deal — You and target opponent each draw two cards.",,,Common,0.20,Card Draw,1,Deck
+Austere Command,{4}{W}{W},6.0,Sorcery,"Choose two —
+• Destroy all artifacts.
+• Destroy all enchantments.
+• Destroy all creatures with mana value 3 or less.
+• Destroy all creatures with mana value 4 or greater.",,,Rare,0.45,Sweeper,1,Deck
+Open the Vaults,{4}{W}{W},6.0,Sorcery,Return all artifact and enchantment cards from all graveyards to the battlefield under their owners' control. (Auras with nothing to enchant remain in graveyards.),,,Rare,0.66,Other,1,Deck
+Brilliant Restoration,{3}{W}{W}{W}{W},7.0,Sorcery,Return all artifact and enchantment cards from your graveyard to the battlefield.,,,Rare,0.89,Other,1,Deck
+Ondu Inversion // Ondu Skyruins,,8.0,Sorcery // Land,,,,Rare,0.76,Land,1,Deck
+Organic Extinction,{8}{W}{W},10.0,Sorcery,"Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)
+Destroy all nonartifact creatures.",,,Rare,0.48,Sweeper,1,Deck
+Immovable Rod,{W},1.0,Artifact,"You may choose not to untap this artifact during your untap step.
+Whenever this artifact becomes untapped, venture into the dungeon.
+{3}{W}, {T}: For as long as this artifact remains tapped, another target permanent loses all abilities and can't attack or block.",,,Rare,0.20,Other,1,Deck
+Portable Hole,{W},1.0,Artifact,"When this artifact enters, exile target nonland permanent an opponent controls with mana value 2 or less until this artifact leaves the battlefield.",,,Uncommon,0.72,Removal,1,Deck
+Sol Ring,{1},1.0,Artifact,{T}: Add {C}{C}.,,,Uncommon,1.75,Ramp,1,Deck
+Terrarion,{1},1.0,Artifact,"This artifact enters tapped.
+{2}, {T}, Sacrifice this artifact: Add two mana in any combination of colors.
+When this artifact is put into a graveyard from the battlefield, draw a card.",,,Common,0.07,Card Draw,1,Deck
+Vexing Bauble,{1},1.0,Artifact,"Whenever a player casts a spell, if no mana was spent to cast it, counter that spell.
+{1}, {T}, Sacrifice this artifact: Draw a card.",,,Uncommon,0.76,Card Draw,1,Deck
+Moonsilver Key,{2},2.0,Artifact,"{1}, {T}, Sacrifice this artifact: Search your library for an artifact card with a mana ability or a basic land card, reveal it, put it into your hand, then shuffle.",,,Uncommon,0.74,Tutor,1,Deck
+Clay-Fired Bricks // Cosmium Kiln,,2.0,Artifact // Artifact,,,,Uncommon,0.06,Other,1,Deck
+Ebony Fly,{2},2.0,Artifact,"This artifact enters tapped.
+{T}: Add {C}.
+{4}: Roll a d6. Until end of turn, you may have this artifact become an X/X Insect artifact creature with flying, where X is the result.
+Whenever this artifact attacks, another target attacking creature gains flying until end of turn.",,,Uncommon,4.31,Ramp,1,Deck
+Ichor Wellspring,{2},2.0,Artifact,"When this artifact enters or is put into a graveyard from the battlefield, draw a card.",,,Common,2.71,Card Draw,1,Deck
+Lightning Greaves,{2},2.0,Artifact — Equipment,"Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)
+Equip {0}",,,Uncommon,6.56,Other,1,Deck
+Liquimetal Torque,{2},2.0,Artifact,"{T}: Add {C}.
+{T}: Target nonland permanent becomes an artifact in addition to its other types until end of turn.",,,Uncommon,2.26,Ramp,1,Deck
+Magewright's Stone,{2},2.0,Artifact,"{1}, {T}: Untap target creature that has an activated ability with {T} in its cost.",,,Uncommon,7.94,Other,1,Deck
+Marble Diamond,{2},2.0,Artifact,"This artifact enters tapped.
+{T}: Add {W}.",,,Common,0.13,Ramp,1,Deck
+Mirror Shield,{2},2.0,Artifact — Equipment,"Equipped creature gets +0/+2 and has hexproof and ""Whenever a creature with deathtouch blocks or becomes blocked by this creature, destroy that creature.""
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,Uncommon,0.32,Other,1,Deck
+Servo Schematic,{2},2.0,Artifact,"When this artifact enters or is put into a graveyard from the battlefield, create a 1/1 colorless Servo artifact creature token.",,,Uncommon,0.15,Other,1,Deck
+Surveyor's Scope,{2},2.0,Artifact,"{T}, Exile this artifact: Search your library for up to X basic land cards, where X is the number of players who control at least two more lands than you. Put those cards onto the battlefield, then shuffle.",,,Rare,6.37,Tutor,1,Deck
+Swiftfoot Boots,{2},2.0,Artifact — Equipment,"Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control. It can attack and {T} no matter when it came under your control.)
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",,,Uncommon,1.97,Other,1,Deck
+Archaeomancer's Map,{2}{W},3.0,Artifact,"When this artifact enters, search your library for up to two basic Plains cards, reveal them, put them into your hand, then shuffle.
+Whenever a land an opponent controls enters, if that player controls more lands than you, you may put a land card from your hand onto the battlefield.",,,Rare,7.42,Tutor,1,Deck
+Halo Fountain,{2}{W},3.0,Artifact,"{W}, {T}, Untap a tapped creature you control: Create a 1/1 green and white Citizen creature token.
+{W}{W}, {T}, Untap two tapped creatures you control: Draw a card.
+{W}{W}{W}{W}{W}, {T}, Untap fifteen tapped creatures you control: You win the game.",,,Mythic,8.50,Card Draw,1,Deck
+Extraplanar Lens,{3},3.0,Artifact,"Imprint — When this artifact enters, you may exile target land you control.
+Whenever a land with the same name as the exiled card is tapped for mana, its controller adds one mana of any type that land produced.",,,Mythic,8.53,Removal,1,Deck
+Basalt Monolith,{3},3.0,Artifact,"This artifact doesn't untap during your untap step.
+{T}: Add {C}{C}{C}.
+{3}: Untap this artifact.",,,Uncommon,4.27,Ramp,1,Deck
+Patriar's Seal,{3},3.0,Artifact,"{T}: Add one mana of any color.
+{1}, {T}: Untap target legendary creature you control.",,,Uncommon,3.06,Other,1,Deck
+Rings of Brighthearth,{3},3.0,Artifact,"Whenever you activate an ability, if it isn't a mana ability, you may pay {2}. If you do, copy that ability. You may choose new targets for the copy.",,,Rare,5.52,Other,1,Deck
+Staff of Domination,{3},3.0,Artifact,"{1}: Untap this artifact.
+{2}, {T}: You gain 1 life.
+{3}, {T}: Untap target creature.
+{4}, {T}: Tap target creature.
+{5}, {T}: Draw a card.",,,Rare,4.45,Card Draw,1,Deck
+The Book of Exalted Deeds,{W}{W}{W},3.0,Legendary Artifact,"At the beginning of your end step, if you gained 3 or more life this turn, create a 3/3 white Angel creature token with flying.
+{W}{W}{W}, {T}, Exile The Book of Exalted Deeds: Put an enlightened counter on target Angel. It gains ""You can't lose the game and your opponents can't win the game."" Activate only as a sorcery.",,,Mythic,5.92,Other,1,Deck
+Thousand-Year Elixir,{3},3.0,Artifact,"You may activate abilities of creatures you control as though those creatures had haste.
+{1}, {T}: Untap target creature.",,,Rare,12.86,Other,1,Deck
+Hedron Archive,{4},4.0,Artifact,"{T}: Add {C}{C}.
+{2}, {T}, Sacrifice this artifact: Draw two cards.",,,Uncommon,,Ramp,1,Deck
+Thousand Moons Smithy // Barracks of the Thousand,,4.0,Legendary Artifact // Legendary Artifact Land,,,,Rare,1.51,Land,1,Deck
+Weatherlight,{4},4.0,Legendary Artifact — Vehicle,"Flying
+Whenever Weatherlight deals combat damage to a player, look at the top five cards of your library. You may reveal a historic card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. (Artifacts, legendaries, and Sagas are historic.)
+Crew 3",4,5,Mythic,0.79,Direct Damage,1,Deck
+Gauntlet of Power,{5},5.0,Artifact,"As this artifact enters, choose a color.
+Creatures of the chosen color get +1/+1.
+Whenever a basic land is tapped for mana of the chosen color, its controller adds an additional one mana of that color.",,,Mythic,3.87,Other,1,Deck
+Coveted Jewel,{6},6.0,Artifact,"When this artifact enters, draw three cards.
+{T}: Add three mana of any one color.
+Whenever one or more creatures an opponent controls attack you and aren't blocked, that player draws three cards and gains control of this artifact. Untap it.",,,Rare,0.19,Card Draw,1,Deck
+Ancient Den,,0.0,Artifact Land,{T}: Add {W}.,,,Common,3.32,Land,1,Deck
+Buried Ruin,,0.0,Land,"{T}: Add {C}.
+{2}, {T}, Sacrifice this land: Return target artifact card from your graveyard to your hand.",,,Uncommon,2.57,Land,1,Deck
+Darksteel Citadel,,0.0,Artifact Land,"Indestructible
+{T}: Add {C}.",,,Uncommon,0.93,Land,1,Deck
+Remote Farm,,0.0,Land,"This land enters tapped with two depletion counters on it.
+{T}, Remove a depletion counter from this land: Add {W}{W}. If there are no depletion counters on this land, sacrifice it.",,,Common,0.40,Land,1,Deck
+Faceless Haven,,0.0,Snow Land,"{T}: Add {C}.
+{S}{S}{S}: This land becomes a 4/3 creature with vigilance and all creature types until end of turn. It's still a land. ({S} can be paid with one mana from a snow source.)",,,Rare,0.22,Land,1,Deck
+Karoo,,0.0,Land,"This land enters tapped.
+When this land enters, sacrifice it unless you return an untapped Plains you control to its owner's hand.
+{T}: Add {C}{W}.",,,Uncommon,0.89,Land,1,Deck
+Mishra's Factory,,0.0,Land,"{T}: Add {C}.
+{1}: This land becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.
+{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.",,,Uncommon,0.11,Land,1,Deck
+Power Depot,,0.0,Artifact Land,"This land enters tapped.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast artifact spells or activate abilities of artifacts.
+Modular 1",,,Uncommon,0.41,Land,1,Deck
+Roadside Reliquary,,0.0,Land,"{T}: Add {C}.
+{2}, {T}, Sacrifice this land: Draw a card if you control an artifact. Draw a card if you control an enchantment.",,,Uncommon,0.17,Land,1,Deck
+Snow-Covered Plains,,0.0,Basic Snow Land — Plains,({T}: Add {W}.),,,Common,0.27,Land,26,Deck
+Pentavus,{7},7.0,Artifact Creature — Construct,"This creature enters with five +1/+1 counters on it.
+{1}, Remove a +1/+1 counter from this creature: Create a 1/1 colorless Pentavite artifact creature token with flying.
+{1}, Sacrifice a Pentavite: Put a +1/+1 counter on this creature.",0,0,Rare,0.17,Sacrifice Synergy,1,Sideboard
+Thopter Squadron,{5},5.0,Artifact Creature — Thopter,"Flying
+This creature enters with three +1/+1 counters on it.
+{1}, Remove a +1/+1 counter from this creature: Create a 1/1 colorless Thopter artifact creature token with flying. Activate only as a sorcery.
+{1}, Sacrifice another Thopter: Put a +1/+1 counter on this creature. Activate only as a sorcery.",0,0,Rare,,Sacrifice Synergy,1,Sideboard
+Enlightened Tutor,{W},1.0,Instant,"Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top.",,,Rare,25.67,Tutor,1,Sideboard
+Orim's Chant,{W},1.0,Instant,"Kicker {W} (You may pay an additional {W} as you cast this spell.)
+Target player can't cast spells this turn. If this spell was kicked, creatures can't attack this turn.",,,Rare,2.48,Other,1,Sideboard
+Silence,{W},1.0,Instant,Your opponents can't cast spells this turn.,,,Rare,7.51,Other,1,Sideboard
+Arcane Signet,{2},2.0,Artifact,{T}: Add one mana of any color in your commander's color identity.,,,Common,0.53,Other,1,Sideboard
+Chrome Mox,{0},0.0,Artifact,"Imprint — When this artifact enters, you may exile a nonartifact, nonland card from your hand.
+{T}: Add one mana of any of the exiled card's colors.",,,Mythic,92.44,Other,1,Sideboard
+Fellwar Stone,{2},2.0,Artifact,{T}: Add one mana of any color that a land an opponent controls could produce.,,,Uncommon,1.43,Other,1,Sideboard
+Grim Monolith,{2},2.0,Artifact,"This artifact doesn't untap during your untap step.
+{T}: Add {C}{C}{C}.
+{4}: Untap this artifact.",,,Rare,302.61,Ramp,1,Sideboard
+Mana Vault,{1},1.0,Artifact,"This artifact doesn't untap during your untap step.
+At the beginning of your upkeep, you may pay {4}. If you do, untap this artifact.
+At the beginning of your draw step, if this artifact is tapped, it deals 1 damage to you.
+{T}: Add {C}{C}{C}.",,,Mythic,63.48,Ramp,1,Sideboard
+Mox Diamond,{0},0.0,Artifact,"If this artifact would enter, you may discard a land card instead. If you do, put this artifact onto the battlefield. If you don't, put it into its owner's graveyard.
+{T}: Add one mana of any color.",,,Mythic,,Other,1,Sideboard
+Manifold Key,{1},1.0,Artifact,"{1}, {T}: Untap another target artifact.
+{3}, {T}: Target creature can't be blocked this turn.",,,Uncommon,0.31,Other,1,Sideboard
+Mox Opal,{0},0.0,Legendary Artifact,Metalcraft — {T}: Add one mana of any color. Activate only if you control three or more artifacts.,,,Mythic,161.85,Other,1,Sideboard
+Pithing Needle,{1},1.0,Artifact,"As this artifact enters, choose a card name.
+Activated abilities of sources with the chosen name can't be activated unless they're mana abilities.",,,Rare,0.46,Other,1,Sideboard
+The One Ring,{4},4.0,Legendary Artifact,"Indestructible
+When The One Ring enters, if you cast it, you gain protection from everything until your next turn.
+At the beginning of your upkeep, you lose 1 life for each burden counter on The One Ring.
+{T}: Put a burden counter on The One Ring, then draw a card for each burden counter on The One Ring.",,,Mythic,70.81,Card Draw,1,Sideboard
+Torpor Orb,{2},2.0,Artifact,Creatures entering don't cause abilities to trigger.,,,Mythic,4.14,Other,1,Sideboard
+Unwinding Clock,{4},4.0,Artifact,Untap all artifacts you control during each other player's untap step.,,,Rare,12.79,Other,1,Sideboard
+Ancient Tomb,,0.0,Land,{T}: Add {C}{C}. This land deals 2 damage to you.,,,Rare,93.29,Land,1,Sideboard
+"Eiganjo, Seat of the Empire",,0.0,Legendary Land,"{T}: Add {W}.
+Channel — {2}{W}, Discard this card: It deals 4 damage to target attacking or blocking creature. This ability costs {1} less to activate for each legendary creature you control.",,,Rare,4.85,Land,1,Sideboard
+Emergence Zone,,0.0,Land,"{T}: Add {C}.
+{1}, {T}, Sacrifice this land: You may cast spells this turn as though they had flash.",,,Uncommon,2.40,Land,1,Sideboard
+Fomori Vault,,0.0,Land,"{T}: Add {C}.
+{3}, {T}, Discard a card: Look at the top X cards of your library, where X is the number of artifacts you control. Put one of those cards into your hand and the rest on the bottom of your library in a random order.",,,Mythic,13.62,Land,1,Sideboard
+Inventors' Fair,,0.0,Legendary Land,"At the beginning of your upkeep, if you control three or more artifacts, you gain 1 life.
+{T}: Add {C}.
+{4}, {T}, Sacrifice Inventors' Fair: Search your library for an artifact card, reveal it, put it into your hand, then shuffle. Activate only if you control three or more artifacts.",,,Rare,12.87,Land,1,Sideboard
+Gemstone Caverns,,0.0,Legendary Land,"If this card is in your opening hand and you're not the starting player, you may begin the game with Gemstone Caverns on the battlefield with a luck counter on it. If you do, exile a card from your hand.
+{T}: Add {C}. If Gemstone Caverns has a luck counter on it, instead add one mana of any color.",,,Mythic,47.29,Land,1,Sideboard
+The Mycosynth Gardens,,0.0,Land — Sphere,"{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{X}, {T}: This land becomes a copy of target nontoken artifact you control with mana value X.",,,Rare,3.15,Land,1,Sideboard
+Urza's Saga,,0.0,Enchantment Land — Urza's Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — This Saga gains ""{T}: Add {C}.""
+II — This Saga gains ""{2}, {T}: Create a 0/0 colorless Construct artifact creature token with 'This token gets +1/+1 for each artifact you control.'""
+III — Search your library for an artifact card with mana cost {0} or {1}, put it onto the battlefield, then shuffle.",,,Rare,41.87,Land,1,Sideboard
+Prized Statue,{2},2.0,Artifact,"When this artifact enters or is put into a graveyard from the battlefield, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",,,Common,0.11,Ramp,1,Sideboard
+Pearl Medallion,{2},2.0,Artifact,White spells you cast cost {1} less to cast.,,,Rare,2.87,Other,1,Sideboard
